@@ -3,9 +3,7 @@
   margin: 0;
   font-family: sans-serif;
 }
-body {
-  width: 100%;
-}
+
 .header {
   color: #6b6060;
   padding: 20px;
@@ -81,8 +79,5 @@ body {
     flex-direction: column;
     border: none;
   }
-  .wrapper {
-    border: 1px solid #e4e2e2;
-    margin: 20px;
-  }
+
 }
